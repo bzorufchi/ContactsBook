@@ -51,7 +51,7 @@ while (true)
     else
     {
         Console.WriteLine("!!! Please enter number between 1 and 2 and 3  and 4!!!");
-        Console.ReadKey();
+        Console.ReadKey();    
 
     }
 }
